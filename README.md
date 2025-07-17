@@ -1,0 +1,22 @@
+## Hi there 👋
+
+[@main](https://github.com/longtrieu)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://trophygh.kolioaris.xyz/?username=longtrieu&rank=SSS,SS,S,AAA,AA,A,SECRET"/>
+</a>
+
+[@vireo](https://github.com/longvireo)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://trophygh.kolioaris.xyz/?username=longvireo&rank=SSS,SS,S,AAA,AA,A,SECRET"/>
+</a>
+
+[@fooder](https://github.com/long2fooder)
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://trophygh.kolioaris.xyz/?username=long2fooder&rank=SSS,SS,S,AAA,SECRET"/>
+</a>
+
+---
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=longtrieu&layout=compact" />
+</div>
